@@ -1,0 +1,12 @@
+﻿games/*
+!games/PUT_YOUR_DUMP_HERE.txt
+logs/
+cache/
+profiles/
+__pycache__/
+*.log
+launcher_settings.json
+backend/out/
+
+backend/user/
+
